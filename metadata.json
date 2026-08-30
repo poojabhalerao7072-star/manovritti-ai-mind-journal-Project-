@@ -1,0 +1,10 @@
+{
+  "name": "Manovritti - AI Mind Journal",
+  "description": "A privacy-first, client-side encrypted AI journaling companion with mood analytics, voice input, and bilingual English & Marathi reflections powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
